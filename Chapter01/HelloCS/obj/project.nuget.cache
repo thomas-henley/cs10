@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/vlgE6OlmKgEu7p2sgU8mAORJy9ikfOVVVFFHr3fJmF+emjP9RLTWzCz/GA+7ssjqHw+nS6jlX4ztctNbB3X/Q==",
+  "dgSpecHash": "FYVH4bWnIglmPY6z5PVzV7760Yzq1sVZ06R+m2LXFWIgHAHizBq7q5araMADlMpmcKwdgk42OZvVtNFgIZvRZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\cs10\\Chapter01\\HelloCS\\HelloCS.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\thenley\\development\\cs10\\Chapter01\\HelloCS\\HelloCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thenley\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thenley\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thenley\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thenley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

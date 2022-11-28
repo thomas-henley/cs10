@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hDuWSga9jsDFfMTImVxBmhv73LybQ+Y5p5gi/oys/GrENjFQHgTSrFm42H6WzqqToyVOZJ98Puja4SZCokvnRg==",
+  "dgSpecHash": "8hCUSSDjkAulkPE5hI6U7SqRzafzsmz9TQLjg+SNyiosf2HulOyYJhFmsi4GNqgAIam+WqmeLBmi5an1EvSXzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\cs10\\Chapter04\\Debugging\\Debugging.csproj",
+  "projectFilePath": "C:\\Users\\thenley\\development\\cs10\\Chapter04\\Debugging\\Debugging.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
