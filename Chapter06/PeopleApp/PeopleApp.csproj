@@ -7,7 +7,16 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
     <ItemGroup>
-        <ProjectReference Include="../PacktLibrary/Packtlibrary.csproj"/>
+        <ProjectReference Include="../PacktLibrary/Packtlibrary.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <Compile Remove="obj\**" />
+    </ItemGroup>
+    <ItemGroup>
+      <EmbeddedResource Remove="obj\**" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Remove="obj\**" />
     </ItemGroup>
 
 </Project>
