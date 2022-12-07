@@ -75,3 +75,15 @@ foreach (Person p in people)
 {
     WriteLine($"  {p.Name}");
 }
+
+WriteLine("Use PersonComparer's IComparer implementation to sort:");
+Array.Sort(people, new PersonComparer());
+foreach (Person p in people)
+{
+    WriteLine($"  {p.Name}");
+}
+
+DisplacementVector dv1 = new(3,5);
+DisplacementVector dv2 = new(-2,7);
+DisplacementVector dv3 = dv1 + dv2;
+WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
